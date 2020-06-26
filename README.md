@@ -1,3 +1,8 @@
-# hello-world
-another repository
-im a person of respect, vision and honest. i like exploring, travel and favourite hobby typing.
+itc group assigment
+our group assignment we've done it by splitting it in to different modules and function such as 
+software iof enable to sell product-
+sofware of keeping track of stock
+software of ordering new stock
+sofware of managing employees,
+we simply done these modules into flowcharts and pseuocode.
+
